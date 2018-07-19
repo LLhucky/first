@@ -1,0 +1,12 @@
+[ 2018-07-16T14:19:20+08:00 ] ::1 /tp32/admin/test/index2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+ERR: 无法加载模块:Admin
+
+[ 2018-07-16T20:33:27+08:00 ] ::1 /tp32/Public/theme/default/laydate.css?v=5.0.9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+ERR: 无法加载模块:Public
+
